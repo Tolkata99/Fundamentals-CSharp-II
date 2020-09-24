@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\bin\Debug\netcoreapp3.1\WordSnockerChampionate.exe
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\bin\Debug\netcoreapp3.1\WordSnockerChampionate.deps.json
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\bin\Debug\netcoreapp3.1\WordSnockerChampionate.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\bin\Debug\netcoreapp3.1\WordSnockerChampionate.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\bin\Debug\netcoreapp3.1\WordSnockerChampionate.dll
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\bin\Debug\netcoreapp3.1\WordSnockerChampionate.pdb
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\obj\Debug\netcoreapp3.1\WordSnockerChampionate.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\obj\Debug\netcoreapp3.1\WordSnockerChampionate.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\obj\Debug\netcoreapp3.1\WordSnockerChampionate.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\obj\Debug\netcoreapp3.1\WordSnockerChampionate.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\obj\Debug\netcoreapp3.1\WordSnockerChampionate.dll
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\obj\Debug\netcoreapp3.1\WordSnockerChampionate.pdb
+C:\Users\Acer Nitro\source\repos\exam\WordSnockerChampionate\obj\Debug\netcoreapp3.1\WordSnockerChampionate.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.exe
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.deps.json
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.dll
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\bin\Debug\netcoreapp3.1\summerOutfit.pdb
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.dll
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.pdb
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\summerOutfit\obj\Debug\netcoreapp3.1\summerOutfit.genruntimeconfig.cache

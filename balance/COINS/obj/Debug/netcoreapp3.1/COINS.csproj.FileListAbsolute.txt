@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\balance\COINS\bin\Debug\netcoreapp3.1\COINS.exe
+C:\Users\Acer Nitro\source\repos\balance\COINS\bin\Debug\netcoreapp3.1\COINS.deps.json
+C:\Users\Acer Nitro\source\repos\balance\COINS\bin\Debug\netcoreapp3.1\COINS.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\balance\COINS\bin\Debug\netcoreapp3.1\COINS.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\balance\COINS\bin\Debug\netcoreapp3.1\COINS.dll
+C:\Users\Acer Nitro\source\repos\balance\COINS\bin\Debug\netcoreapp3.1\COINS.pdb
+C:\Users\Acer Nitro\source\repos\balance\COINS\obj\Debug\netcoreapp3.1\COINS.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\COINS\obj\Debug\netcoreapp3.1\COINS.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\balance\COINS\obj\Debug\netcoreapp3.1\COINS.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\COINS\obj\Debug\netcoreapp3.1\COINS.dll
+C:\Users\Acer Nitro\source\repos\balance\COINS\obj\Debug\netcoreapp3.1\COINS.pdb
+C:\Users\Acer Nitro\source\repos\balance\COINS\obj\Debug\netcoreapp3.1\COINS.genruntimeconfig.cache

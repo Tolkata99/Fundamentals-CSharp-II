@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\obj\Debug\netcoreapp3.1\tradeComisions.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\obj\Debug\netcoreapp3.1\tradeComisions.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\obj\Debug\netcoreapp3.1\tradeComisions.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\obj\Debug\netcoreapp3.1\tradeComisions.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\bin\Debug\netcoreapp3.1\tradeComisions.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\bin\Debug\netcoreapp3.1\tradeComisions.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\bin\Debug\netcoreapp3.1\tradeComisions.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\bin\Debug\netcoreapp3.1\tradeComisions.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\bin\Debug\netcoreapp3.1\tradeComisions.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\bin\Debug\netcoreapp3.1\tradeComisions.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\obj\Debug\netcoreapp3.1\tradeComisions.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\obj\Debug\netcoreapp3.1\tradeComisions.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\tradeComisions\obj\Debug\netcoreapp3.1\tradeComisions.genruntimeconfig.cache

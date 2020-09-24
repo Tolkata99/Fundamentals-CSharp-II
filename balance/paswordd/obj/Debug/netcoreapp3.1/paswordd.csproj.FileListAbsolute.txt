@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\balance\paswordd\bin\Debug\netcoreapp3.1\paswordd.exe
+C:\Users\Acer Nitro\source\repos\balance\paswordd\bin\Debug\netcoreapp3.1\paswordd.deps.json
+C:\Users\Acer Nitro\source\repos\balance\paswordd\bin\Debug\netcoreapp3.1\paswordd.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\balance\paswordd\bin\Debug\netcoreapp3.1\paswordd.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\balance\paswordd\bin\Debug\netcoreapp3.1\paswordd.dll
+C:\Users\Acer Nitro\source\repos\balance\paswordd\bin\Debug\netcoreapp3.1\paswordd.pdb
+C:\Users\Acer Nitro\source\repos\balance\paswordd\obj\Debug\netcoreapp3.1\paswordd.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\balance\paswordd\obj\Debug\netcoreapp3.1\paswordd.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\paswordd\obj\Debug\netcoreapp3.1\paswordd.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\balance\paswordd\obj\Debug\netcoreapp3.1\paswordd.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\paswordd\obj\Debug\netcoreapp3.1\paswordd.dll
+C:\Users\Acer Nitro\source\repos\balance\paswordd\obj\Debug\netcoreapp3.1\paswordd.pdb
+C:\Users\Acer Nitro\source\repos\balance\paswordd\obj\Debug\netcoreapp3.1\paswordd.genruntimeconfig.cache

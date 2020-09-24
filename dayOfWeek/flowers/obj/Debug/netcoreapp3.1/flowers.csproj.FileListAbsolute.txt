@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\obj\Debug\netcoreapp3.1\flowers.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\obj\Debug\netcoreapp3.1\flowers.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\obj\Debug\netcoreapp3.1\flowers.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\obj\Debug\netcoreapp3.1\flowers.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\bin\Debug\netcoreapp3.1\flowers.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\bin\Debug\netcoreapp3.1\flowers.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\bin\Debug\netcoreapp3.1\flowers.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\bin\Debug\netcoreapp3.1\flowers.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\bin\Debug\netcoreapp3.1\flowers.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\bin\Debug\netcoreapp3.1\flowers.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\obj\Debug\netcoreapp3.1\flowers.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\obj\Debug\netcoreapp3.1\flowers.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\flowers\obj\Debug\netcoreapp3.1\flowers.genruntimeconfig.cache

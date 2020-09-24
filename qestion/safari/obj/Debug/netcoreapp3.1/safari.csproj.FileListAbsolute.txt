@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\qestion\safari\bin\Debug\netcoreapp3.1\safari.exe
+C:\Users\Acer Nitro\source\repos\qestion\safari\bin\Debug\netcoreapp3.1\safari.deps.json
+C:\Users\Acer Nitro\source\repos\qestion\safari\bin\Debug\netcoreapp3.1\safari.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\qestion\safari\bin\Debug\netcoreapp3.1\safari.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\qestion\safari\bin\Debug\netcoreapp3.1\safari.dll
+C:\Users\Acer Nitro\source\repos\qestion\safari\bin\Debug\netcoreapp3.1\safari.pdb
+C:\Users\Acer Nitro\source\repos\qestion\safari\obj\Debug\netcoreapp3.1\safari.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\qestion\safari\obj\Debug\netcoreapp3.1\safari.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\qestion\safari\obj\Debug\netcoreapp3.1\safari.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\qestion\safari\obj\Debug\netcoreapp3.1\safari.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\qestion\safari\obj\Debug\netcoreapp3.1\safari.dll
+C:\Users\Acer Nitro\source\repos\qestion\safari\obj\Debug\netcoreapp3.1\safari.pdb
+C:\Users\Acer Nitro\source\repos\qestion\safari\obj\Debug\netcoreapp3.1\safari.genruntimeconfig.cache

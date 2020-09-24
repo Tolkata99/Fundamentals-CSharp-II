@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\bin\Debug\netcoreapp3.1\foodAnimals.exe
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\bin\Debug\netcoreapp3.1\foodAnimals.deps.json
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\bin\Debug\netcoreapp3.1\foodAnimals.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\bin\Debug\netcoreapp3.1\foodAnimals.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\bin\Debug\netcoreapp3.1\foodAnimals.dll
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\bin\Debug\netcoreapp3.1\foodAnimals.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\obj\Debug\netcoreapp3.1\foodAnimals.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\obj\Debug\netcoreapp3.1\foodAnimals.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\obj\Debug\netcoreapp3.1\foodAnimals.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\obj\Debug\netcoreapp3.1\foodAnimals.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\obj\Debug\netcoreapp3.1\foodAnimals.dll
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\obj\Debug\netcoreapp3.1\foodAnimals.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\foodAnimals\obj\Debug\netcoreapp3.1\foodAnimals.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\bin\Debug\netcoreapp3.1\numberInRange.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\bin\Debug\netcoreapp3.1\numberInRange.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\bin\Debug\netcoreapp3.1\numberInRange.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\bin\Debug\netcoreapp3.1\numberInRange.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\bin\Debug\netcoreapp3.1\numberInRange.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\bin\Debug\netcoreapp3.1\numberInRange.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\obj\Debug\netcoreapp3.1\numberInRange.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\obj\Debug\netcoreapp3.1\numberInRange.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\obj\Debug\netcoreapp3.1\numberInRange.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\obj\Debug\netcoreapp3.1\numberInRange.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\obj\Debug\netcoreapp3.1\numberInRange.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\numberInRange\obj\Debug\netcoreapp3.1\numberInRange.genruntimeconfig.cache

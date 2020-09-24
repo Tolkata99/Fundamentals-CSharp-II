@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\exam\footballResult\bin\Debug\netcoreapp3.1\footballResult.exe
+C:\Users\Acer Nitro\source\repos\exam\footballResult\bin\Debug\netcoreapp3.1\footballResult.deps.json
+C:\Users\Acer Nitro\source\repos\exam\footballResult\bin\Debug\netcoreapp3.1\footballResult.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\exam\footballResult\bin\Debug\netcoreapp3.1\footballResult.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\exam\footballResult\bin\Debug\netcoreapp3.1\footballResult.dll
+C:\Users\Acer Nitro\source\repos\exam\footballResult\bin\Debug\netcoreapp3.1\footballResult.pdb
+C:\Users\Acer Nitro\source\repos\exam\footballResult\obj\Debug\netcoreapp3.1\footballResult.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\exam\footballResult\obj\Debug\netcoreapp3.1\footballResult.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\exam\footballResult\obj\Debug\netcoreapp3.1\footballResult.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\exam\footballResult\obj\Debug\netcoreapp3.1\footballResult.dll
+C:\Users\Acer Nitro\source\repos\exam\footballResult\obj\Debug\netcoreapp3.1\footballResult.pdb
+C:\Users\Acer Nitro\source\repos\exam\footballResult\obj\Debug\netcoreapp3.1\footballResult.genruntimeconfig.cache

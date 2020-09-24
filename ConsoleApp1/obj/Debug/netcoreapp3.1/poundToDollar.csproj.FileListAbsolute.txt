@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\poundToDollar.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\poundToDollar.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\poundToDollar.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\poundToDollar.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\poundToDollar.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\bin\Debug\netcoreapp3.1\poundToDollar.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\poundToDollar.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\poundToDollar.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\poundToDollar.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\poundToDollar.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\poundToDollar.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\poundToDollar.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\ConsoleApp1\obj\Debug\netcoreapp3.1\poundToDollar.genruntimeconfig.cache

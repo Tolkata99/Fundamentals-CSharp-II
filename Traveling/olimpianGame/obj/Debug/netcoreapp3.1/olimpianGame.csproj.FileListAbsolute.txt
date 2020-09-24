@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\bin\Debug\netcoreapp3.1\olimpianGame.exe
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\bin\Debug\netcoreapp3.1\olimpianGame.deps.json
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\bin\Debug\netcoreapp3.1\olimpianGame.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\bin\Debug\netcoreapp3.1\olimpianGame.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\bin\Debug\netcoreapp3.1\olimpianGame.dll
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\bin\Debug\netcoreapp3.1\olimpianGame.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\obj\Debug\netcoreapp3.1\olimpianGame.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\obj\Debug\netcoreapp3.1\olimpianGame.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\obj\Debug\netcoreapp3.1\olimpianGame.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\obj\Debug\netcoreapp3.1\olimpianGame.dll
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\obj\Debug\netcoreapp3.1\olimpianGame.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\olimpianGame\obj\Debug\netcoreapp3.1\olimpianGame.genruntimeconfig.cache

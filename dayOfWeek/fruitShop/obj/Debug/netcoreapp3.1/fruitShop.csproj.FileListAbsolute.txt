@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\bin\Debug\netcoreapp3.1\fruitShop.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitShop\obj\Debug\netcoreapp3.1\fruitShop.genruntimeconfig.cache

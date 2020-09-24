@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\bin\Debug\netcoreapp3.1\smallShop.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\bin\Debug\netcoreapp3.1\smallShop.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\bin\Debug\netcoreapp3.1\smallShop.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\bin\Debug\netcoreapp3.1\smallShop.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\bin\Debug\netcoreapp3.1\smallShop.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\bin\Debug\netcoreapp3.1\smallShop.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\obj\Debug\netcoreapp3.1\smallShop.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\obj\Debug\netcoreapp3.1\smallShop.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\obj\Debug\netcoreapp3.1\smallShop.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\obj\Debug\netcoreapp3.1\smallShop.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\obj\Debug\netcoreapp3.1\smallShop.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\obj\Debug\netcoreapp3.1\smallShop.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\smallShop\obj\Debug\netcoreapp3.1\smallShop.genruntimeconfig.cache

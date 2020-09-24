@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\bin\Debug\netcoreapp3.1\cofeemach.exe
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\bin\Debug\netcoreapp3.1\cofeemach.deps.json
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\bin\Debug\netcoreapp3.1\cofeemach.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\bin\Debug\netcoreapp3.1\cofeemach.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\bin\Debug\netcoreapp3.1\cofeemach.dll
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\bin\Debug\netcoreapp3.1\cofeemach.pdb
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\obj\Debug\netcoreapp3.1\cofeemach.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\obj\Debug\netcoreapp3.1\cofeemach.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\obj\Debug\netcoreapp3.1\cofeemach.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\obj\Debug\netcoreapp3.1\cofeemach.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\obj\Debug\netcoreapp3.1\cofeemach.dll
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\obj\Debug\netcoreapp3.1\cofeemach.pdb
+C:\Users\Acer Nitro\source\repos\exams\cofeemach\obj\Debug\netcoreapp3.1\cofeemach.genruntimeconfig.cache

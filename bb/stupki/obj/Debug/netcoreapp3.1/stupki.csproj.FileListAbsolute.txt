@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\bb\stupki\bin\Debug\netcoreapp3.1\stupki.exe
+C:\Users\Acer Nitro\source\repos\bb\stupki\bin\Debug\netcoreapp3.1\stupki.deps.json
+C:\Users\Acer Nitro\source\repos\bb\stupki\bin\Debug\netcoreapp3.1\stupki.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\bb\stupki\bin\Debug\netcoreapp3.1\stupki.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\bb\stupki\bin\Debug\netcoreapp3.1\stupki.dll
+C:\Users\Acer Nitro\source\repos\bb\stupki\bin\Debug\netcoreapp3.1\stupki.pdb
+C:\Users\Acer Nitro\source\repos\bb\stupki\obj\Debug\netcoreapp3.1\stupki.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\bb\stupki\obj\Debug\netcoreapp3.1\stupki.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\bb\stupki\obj\Debug\netcoreapp3.1\stupki.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\bb\stupki\obj\Debug\netcoreapp3.1\stupki.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\bb\stupki\obj\Debug\netcoreapp3.1\stupki.dll
+C:\Users\Acer Nitro\source\repos\bb\stupki\obj\Debug\netcoreapp3.1\stupki.pdb
+C:\Users\Acer Nitro\source\repos\bb\stupki\obj\Debug\netcoreapp3.1\stupki.genruntimeconfig.cache

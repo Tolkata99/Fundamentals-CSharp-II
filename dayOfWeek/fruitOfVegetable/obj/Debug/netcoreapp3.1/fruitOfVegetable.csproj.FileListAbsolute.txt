@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\obj\Debug\netcoreapp3.1\fruitOfVegetable.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\obj\Debug\netcoreapp3.1\fruitOfVegetable.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\obj\Debug\netcoreapp3.1\fruitOfVegetable.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\bin\Debug\netcoreapp3.1\fruitOfVegetable.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\bin\Debug\netcoreapp3.1\fruitOfVegetable.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\bin\Debug\netcoreapp3.1\fruitOfVegetable.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\bin\Debug\netcoreapp3.1\fruitOfVegetable.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\bin\Debug\netcoreapp3.1\fruitOfVegetable.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\bin\Debug\netcoreapp3.1\fruitOfVegetable.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\obj\Debug\netcoreapp3.1\fruitOfVegetable.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\obj\Debug\netcoreapp3.1\fruitOfVegetable.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fruitOfVegetable\obj\Debug\netcoreapp3.1\fruitOfVegetable.genruntimeconfig.cache

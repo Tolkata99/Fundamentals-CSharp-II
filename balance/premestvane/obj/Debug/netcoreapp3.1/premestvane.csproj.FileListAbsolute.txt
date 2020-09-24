@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\balance\premestvane\obj\Debug\netcoreapp3.1\premestvane.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\balance\premestvane\obj\Debug\netcoreapp3.1\premestvane.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\premestvane\obj\Debug\netcoreapp3.1\premestvane.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\balance\premestvane\obj\Debug\netcoreapp3.1\premestvane.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\premestvane\bin\Debug\netcoreapp3.1\premestvane.exe
+C:\Users\Acer Nitro\source\repos\balance\premestvane\bin\Debug\netcoreapp3.1\premestvane.deps.json
+C:\Users\Acer Nitro\source\repos\balance\premestvane\bin\Debug\netcoreapp3.1\premestvane.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\balance\premestvane\bin\Debug\netcoreapp3.1\premestvane.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\balance\premestvane\bin\Debug\netcoreapp3.1\premestvane.dll
+C:\Users\Acer Nitro\source\repos\balance\premestvane\bin\Debug\netcoreapp3.1\premestvane.pdb
+C:\Users\Acer Nitro\source\repos\balance\premestvane\obj\Debug\netcoreapp3.1\premestvane.dll
+C:\Users\Acer Nitro\source\repos\balance\premestvane\obj\Debug\netcoreapp3.1\premestvane.pdb
+C:\Users\Acer Nitro\source\repos\balance\premestvane\obj\Debug\netcoreapp3.1\premestvane.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.exe
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.deps.json
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.dll
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\bin\Debug\netcoreapp3.1\Vacantion.pdb
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.dll
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.pdb
+C:\Users\Acer Nitro\source\repos\operations\Vacantion\obj\Debug\netcoreapp3.1\Vacantion.genruntimeconfig.cache

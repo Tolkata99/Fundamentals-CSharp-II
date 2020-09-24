@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\bin\Debug\netcoreapp3.1\invalidNuber.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\bin\Debug\netcoreapp3.1\invalidNuber.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\bin\Debug\netcoreapp3.1\invalidNuber.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\bin\Debug\netcoreapp3.1\invalidNuber.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\bin\Debug\netcoreapp3.1\invalidNuber.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\bin\Debug\netcoreapp3.1\invalidNuber.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\obj\Debug\netcoreapp3.1\invalidNuber.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\obj\Debug\netcoreapp3.1\invalidNuber.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\obj\Debug\netcoreapp3.1\invalidNuber.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\obj\Debug\netcoreapp3.1\invalidNuber.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\obj\Debug\netcoreapp3.1\invalidNuber.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\invalidNuber\obj\Debug\netcoreapp3.1\invalidNuber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\bin\Debug\netcoreapp3.1\familiTryp.exe
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\bin\Debug\netcoreapp3.1\familiTryp.deps.json
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\bin\Debug\netcoreapp3.1\familiTryp.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\bin\Debug\netcoreapp3.1\familiTryp.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\bin\Debug\netcoreapp3.1\familiTryp.dll
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\bin\Debug\netcoreapp3.1\familiTryp.pdb
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\obj\Debug\netcoreapp3.1\familiTryp.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\obj\Debug\netcoreapp3.1\familiTryp.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\obj\Debug\netcoreapp3.1\familiTryp.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\obj\Debug\netcoreapp3.1\familiTryp.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\obj\Debug\netcoreapp3.1\familiTryp.dll
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\obj\Debug\netcoreapp3.1\familiTryp.pdb
+C:\Users\Acer Nitro\source\repos\exams\familiTryp\obj\Debug\netcoreapp3.1\familiTryp.genruntimeconfig.cache

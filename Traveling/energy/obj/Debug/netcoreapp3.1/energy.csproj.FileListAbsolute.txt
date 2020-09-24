@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\Traveling\energy\bin\Debug\netcoreapp3.1\energy.exe
+C:\Users\Acer Nitro\source\repos\Traveling\energy\bin\Debug\netcoreapp3.1\energy.deps.json
+C:\Users\Acer Nitro\source\repos\Traveling\energy\bin\Debug\netcoreapp3.1\energy.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Traveling\energy\bin\Debug\netcoreapp3.1\energy.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\Traveling\energy\bin\Debug\netcoreapp3.1\energy.dll
+C:\Users\Acer Nitro\source\repos\Traveling\energy\bin\Debug\netcoreapp3.1\energy.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\energy\obj\Debug\netcoreapp3.1\energy.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\Traveling\energy\obj\Debug\netcoreapp3.1\energy.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\energy\obj\Debug\netcoreapp3.1\energy.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Traveling\energy\obj\Debug\netcoreapp3.1\energy.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\energy\obj\Debug\netcoreapp3.1\energy.dll
+C:\Users\Acer Nitro\source\repos\Traveling\energy\obj\Debug\netcoreapp3.1\energy.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\energy\obj\Debug\netcoreapp3.1\energy.genruntimeconfig.cache

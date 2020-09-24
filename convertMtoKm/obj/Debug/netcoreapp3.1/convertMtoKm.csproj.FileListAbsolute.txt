@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\bin\Debug\netcoreapp3.1\convertMtoKm.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\bin\Debug\netcoreapp3.1\convertMtoKm.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\bin\Debug\netcoreapp3.1\convertMtoKm.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\bin\Debug\netcoreapp3.1\convertMtoKm.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\bin\Debug\netcoreapp3.1\convertMtoKm.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\bin\Debug\netcoreapp3.1\convertMtoKm.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.genruntimeconfig.cache

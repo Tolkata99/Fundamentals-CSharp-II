@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\balance\toto\bin\Debug\netcoreapp3.1\toto.exe
+C:\Users\Acer Nitro\source\repos\balance\toto\bin\Debug\netcoreapp3.1\toto.deps.json
+C:\Users\Acer Nitro\source\repos\balance\toto\bin\Debug\netcoreapp3.1\toto.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\balance\toto\bin\Debug\netcoreapp3.1\toto.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\balance\toto\bin\Debug\netcoreapp3.1\toto.dll
+C:\Users\Acer Nitro\source\repos\balance\toto\bin\Debug\netcoreapp3.1\toto.pdb
+C:\Users\Acer Nitro\source\repos\balance\toto\obj\Debug\netcoreapp3.1\toto.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\balance\toto\obj\Debug\netcoreapp3.1\toto.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\toto\obj\Debug\netcoreapp3.1\toto.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\balance\toto\obj\Debug\netcoreapp3.1\toto.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\toto\obj\Debug\netcoreapp3.1\toto.dll
+C:\Users\Acer Nitro\source\repos\balance\toto\obj\Debug\netcoreapp3.1\toto.pdb
+C:\Users\Acer Nitro\source\repos\balance\toto\obj\Debug\netcoreapp3.1\toto.genruntimeconfig.cache

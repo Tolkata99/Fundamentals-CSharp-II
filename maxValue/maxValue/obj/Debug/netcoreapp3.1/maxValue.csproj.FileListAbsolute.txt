@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\bin\Debug\netcoreapp3.1\maxValue.exe
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\bin\Debug\netcoreapp3.1\maxValue.deps.json
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\bin\Debug\netcoreapp3.1\maxValue.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\bin\Debug\netcoreapp3.1\maxValue.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\bin\Debug\netcoreapp3.1\maxValue.dll
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\bin\Debug\netcoreapp3.1\maxValue.pdb
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\obj\Debug\netcoreapp3.1\maxValue.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\obj\Debug\netcoreapp3.1\maxValue.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\obj\Debug\netcoreapp3.1\maxValue.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\obj\Debug\netcoreapp3.1\maxValue.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\obj\Debug\netcoreapp3.1\maxValue.dll
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\obj\Debug\netcoreapp3.1\maxValue.pdb
+C:\Users\Acer Nitro\source\repos\maxValue\maxValue\obj\Debug\netcoreapp3.1\maxValue.genruntimeconfig.cache

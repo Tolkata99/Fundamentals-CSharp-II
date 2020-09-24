@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\bin\Debug\netcoreapp3.1\SumOfPrime.exe
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\bin\Debug\netcoreapp3.1\SumOfPrime.deps.json
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\bin\Debug\netcoreapp3.1\SumOfPrime.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\bin\Debug\netcoreapp3.1\SumOfPrime.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\bin\Debug\netcoreapp3.1\SumOfPrime.dll
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\bin\Debug\netcoreapp3.1\SumOfPrime.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\obj\Debug\netcoreapp3.1\SumOfPrime.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\obj\Debug\netcoreapp3.1\SumOfPrime.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\obj\Debug\netcoreapp3.1\SumOfPrime.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\obj\Debug\netcoreapp3.1\SumOfPrime.dll
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\obj\Debug\netcoreapp3.1\SumOfPrime.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\SumOfPrime\obj\Debug\netcoreapp3.1\SumOfPrime.genruntimeconfig.cache

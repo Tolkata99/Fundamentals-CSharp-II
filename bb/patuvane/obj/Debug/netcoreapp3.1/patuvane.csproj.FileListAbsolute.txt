@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\bb\patuvane\bin\Debug\netcoreapp3.1\patuvane.exe
+C:\Users\Acer Nitro\source\repos\bb\patuvane\bin\Debug\netcoreapp3.1\patuvane.deps.json
+C:\Users\Acer Nitro\source\repos\bb\patuvane\bin\Debug\netcoreapp3.1\patuvane.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\bb\patuvane\bin\Debug\netcoreapp3.1\patuvane.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\bb\patuvane\bin\Debug\netcoreapp3.1\patuvane.dll
+C:\Users\Acer Nitro\source\repos\bb\patuvane\bin\Debug\netcoreapp3.1\patuvane.pdb
+C:\Users\Acer Nitro\source\repos\bb\patuvane\obj\Debug\netcoreapp3.1\patuvane.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\bb\patuvane\obj\Debug\netcoreapp3.1\patuvane.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\bb\patuvane\obj\Debug\netcoreapp3.1\patuvane.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\bb\patuvane\obj\Debug\netcoreapp3.1\patuvane.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\bb\patuvane\obj\Debug\netcoreapp3.1\patuvane.dll
+C:\Users\Acer Nitro\source\repos\bb\patuvane\obj\Debug\netcoreapp3.1\patuvane.pdb
+C:\Users\Acer Nitro\source\repos\bb\patuvane\obj\Debug\netcoreapp3.1\patuvane.genruntimeconfig.cache

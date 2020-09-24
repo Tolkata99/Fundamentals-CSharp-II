@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\bin\Debug\netcoreapp3.1\notnumber.exe
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\bin\Debug\netcoreapp3.1\notnumber.deps.json
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\bin\Debug\netcoreapp3.1\notnumber.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\bin\Debug\netcoreapp3.1\notnumber.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\bin\Debug\netcoreapp3.1\notnumber.dll
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\bin\Debug\netcoreapp3.1\notnumber.pdb
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\obj\Debug\netcoreapp3.1\notnumber.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\obj\Debug\netcoreapp3.1\notnumber.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\obj\Debug\netcoreapp3.1\notnumber.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\obj\Debug\netcoreapp3.1\notnumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\obj\Debug\netcoreapp3.1\notnumber.dll
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\obj\Debug\netcoreapp3.1\notnumber.pdb
+C:\Users\Acer Nitro\source\repos\qestion\notnumber\obj\Debug\netcoreapp3.1\notnumber.genruntimeconfig.cache

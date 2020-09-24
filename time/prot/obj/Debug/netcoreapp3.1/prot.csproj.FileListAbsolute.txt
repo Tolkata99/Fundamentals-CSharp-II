@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\time\prot\bin\Debug\netcoreapp3.1\prot.exe
+C:\Users\Acer Nitro\source\repos\time\prot\bin\Debug\netcoreapp3.1\prot.deps.json
+C:\Users\Acer Nitro\source\repos\time\prot\bin\Debug\netcoreapp3.1\prot.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\time\prot\bin\Debug\netcoreapp3.1\prot.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\time\prot\bin\Debug\netcoreapp3.1\prot.dll
+C:\Users\Acer Nitro\source\repos\time\prot\bin\Debug\netcoreapp3.1\prot.pdb
+C:\Users\Acer Nitro\source\repos\time\prot\obj\Debug\netcoreapp3.1\prot.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\time\prot\obj\Debug\netcoreapp3.1\prot.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\time\prot\obj\Debug\netcoreapp3.1\prot.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\time\prot\obj\Debug\netcoreapp3.1\prot.dll
+C:\Users\Acer Nitro\source\repos\time\prot\obj\Debug\netcoreapp3.1\prot.pdb
+C:\Users\Acer Nitro\source\repos\time\prot\obj\Debug\netcoreapp3.1\prot.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\repos\time\prot\obj\Debug\netcoreapp3.1\prot.csprojAssemblyReference.cache

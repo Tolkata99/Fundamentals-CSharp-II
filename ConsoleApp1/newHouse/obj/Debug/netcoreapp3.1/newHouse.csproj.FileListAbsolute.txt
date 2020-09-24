@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\bin\Debug\netcoreapp3.1\newHouse.exe
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\bin\Debug\netcoreapp3.1\newHouse.deps.json
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\bin\Debug\netcoreapp3.1\newHouse.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\bin\Debug\netcoreapp3.1\newHouse.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\bin\Debug\netcoreapp3.1\newHouse.dll
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\bin\Debug\netcoreapp3.1\newHouse.pdb
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\obj\Debug\netcoreapp3.1\newHouse.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\obj\Debug\netcoreapp3.1\newHouse.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\obj\Debug\netcoreapp3.1\newHouse.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\obj\Debug\netcoreapp3.1\newHouse.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\obj\Debug\netcoreapp3.1\newHouse.dll
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\obj\Debug\netcoreapp3.1\newHouse.pdb
+C:\Users\Acer Nitro\source\repos\ConsoleApp1\newHouse\obj\Debug\netcoreapp3.1\newHouse.genruntimeconfig.cache

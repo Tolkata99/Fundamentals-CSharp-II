@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\bin\Debug\netcoreapp3.1\numberFrom100.exe
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\bin\Debug\netcoreapp3.1\numberFrom100.deps.json
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\bin\Debug\netcoreapp3.1\numberFrom100.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\bin\Debug\netcoreapp3.1\numberFrom100.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\bin\Debug\netcoreapp3.1\numberFrom100.dll
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\bin\Debug\netcoreapp3.1\numberFrom100.pdb
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\obj\Debug\netcoreapp3.1\numberFrom100.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\obj\Debug\netcoreapp3.1\numberFrom100.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\obj\Debug\netcoreapp3.1\numberFrom100.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\obj\Debug\netcoreapp3.1\numberFrom100.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\obj\Debug\netcoreapp3.1\numberFrom100.dll
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\obj\Debug\netcoreapp3.1\numberFrom100.pdb
+C:\Users\Acer Nitro\source\repos\numberFrom100\numberFrom100\obj\Debug\netcoreapp3.1\numberFrom100.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\Traveling\jury\obj\Debug\netcoreapp3.1\jury.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\Traveling\jury\obj\Debug\netcoreapp3.1\jury.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\jury\obj\Debug\netcoreapp3.1\jury.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Traveling\jury\obj\Debug\netcoreapp3.1\jury.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\jury\bin\Debug\netcoreapp3.1\jury.exe
+C:\Users\Acer Nitro\source\repos\Traveling\jury\bin\Debug\netcoreapp3.1\jury.deps.json
+C:\Users\Acer Nitro\source\repos\Traveling\jury\bin\Debug\netcoreapp3.1\jury.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Traveling\jury\bin\Debug\netcoreapp3.1\jury.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\Traveling\jury\bin\Debug\netcoreapp3.1\jury.dll
+C:\Users\Acer Nitro\source\repos\Traveling\jury\bin\Debug\netcoreapp3.1\jury.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\jury\obj\Debug\netcoreapp3.1\jury.dll
+C:\Users\Acer Nitro\source\repos\Traveling\jury\obj\Debug\netcoreapp3.1\jury.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\jury\obj\Debug\netcoreapp3.1\jury.genruntimeconfig.cache

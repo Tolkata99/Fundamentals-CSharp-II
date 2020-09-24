@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\balance\balance\obj\Debug\netcoreapp3.1\balance.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\balance\balance\obj\Debug\netcoreapp3.1\balance.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\balance\obj\Debug\netcoreapp3.1\balance.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\balance\balance\obj\Debug\netcoreapp3.1\balance.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\balance\bin\Debug\netcoreapp3.1\balance.exe
+C:\Users\Acer Nitro\source\repos\balance\balance\bin\Debug\netcoreapp3.1\balance.deps.json
+C:\Users\Acer Nitro\source\repos\balance\balance\bin\Debug\netcoreapp3.1\balance.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\balance\balance\bin\Debug\netcoreapp3.1\balance.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\balance\balance\bin\Debug\netcoreapp3.1\balance.dll
+C:\Users\Acer Nitro\source\repos\balance\balance\bin\Debug\netcoreapp3.1\balance.pdb
+C:\Users\Acer Nitro\source\repos\balance\balance\obj\Debug\netcoreapp3.1\balance.dll
+C:\Users\Acer Nitro\source\repos\balance\balance\obj\Debug\netcoreapp3.1\balance.pdb
+C:\Users\Acer Nitro\source\repos\balance\balance\obj\Debug\netcoreapp3.1\balance.genruntimeconfig.cache

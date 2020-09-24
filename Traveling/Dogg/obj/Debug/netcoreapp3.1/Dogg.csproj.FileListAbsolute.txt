@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\bin\Debug\netcoreapp3.1\Dogg.exe
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\bin\Debug\netcoreapp3.1\Dogg.deps.json
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\bin\Debug\netcoreapp3.1\Dogg.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\bin\Debug\netcoreapp3.1\Dogg.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\bin\Debug\netcoreapp3.1\Dogg.dll
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\bin\Debug\netcoreapp3.1\Dogg.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\obj\Debug\netcoreapp3.1\Dogg.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\obj\Debug\netcoreapp3.1\Dogg.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\obj\Debug\netcoreapp3.1\Dogg.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\obj\Debug\netcoreapp3.1\Dogg.dll
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\obj\Debug\netcoreapp3.1\Dogg.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\Dogg\obj\Debug\netcoreapp3.1\Dogg.genruntimeconfig.cache

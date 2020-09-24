@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\bin\Debug\netcoreapp3.1\pochivka.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\bin\Debug\netcoreapp3.1\pochivka.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\bin\Debug\netcoreapp3.1\pochivka.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\bin\Debug\netcoreapp3.1\pochivka.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\bin\Debug\netcoreapp3.1\pochivka.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\bin\Debug\netcoreapp3.1\pochivka.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\obj\Debug\netcoreapp3.1\pochivka.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\obj\Debug\netcoreapp3.1\pochivka.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\obj\Debug\netcoreapp3.1\pochivka.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\obj\Debug\netcoreapp3.1\pochivka.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\obj\Debug\netcoreapp3.1\pochivka.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\obj\Debug\netcoreapp3.1\pochivka.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\pochivka\obj\Debug\netcoreapp3.1\pochivka.genruntimeconfig.cache

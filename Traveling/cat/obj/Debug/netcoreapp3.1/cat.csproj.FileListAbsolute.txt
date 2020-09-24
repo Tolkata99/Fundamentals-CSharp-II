@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\Traveling\cat\bin\Debug\netcoreapp3.1\cat.exe
+C:\Users\Acer Nitro\source\repos\Traveling\cat\bin\Debug\netcoreapp3.1\cat.deps.json
+C:\Users\Acer Nitro\source\repos\Traveling\cat\bin\Debug\netcoreapp3.1\cat.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\Traveling\cat\bin\Debug\netcoreapp3.1\cat.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\Traveling\cat\bin\Debug\netcoreapp3.1\cat.dll
+C:\Users\Acer Nitro\source\repos\Traveling\cat\bin\Debug\netcoreapp3.1\cat.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\cat\obj\Debug\netcoreapp3.1\cat.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\cat\obj\Debug\netcoreapp3.1\cat.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\Traveling\cat\obj\Debug\netcoreapp3.1\cat.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\Traveling\cat\obj\Debug\netcoreapp3.1\cat.dll
+C:\Users\Acer Nitro\source\repos\Traveling\cat\obj\Debug\netcoreapp3.1\cat.pdb
+C:\Users\Acer Nitro\source\repos\Traveling\cat\obj\Debug\netcoreapp3.1\cat.genruntimeconfig.cache

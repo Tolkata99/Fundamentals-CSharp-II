@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\bin\Debug\netcoreapp3.1\animaType.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\bin\Debug\netcoreapp3.1\animaType.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\bin\Debug\netcoreapp3.1\animaType.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\bin\Debug\netcoreapp3.1\animaType.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\bin\Debug\netcoreapp3.1\animaType.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\bin\Debug\netcoreapp3.1\animaType.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\obj\Debug\netcoreapp3.1\animaType.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\obj\Debug\netcoreapp3.1\animaType.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\obj\Debug\netcoreapp3.1\animaType.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\obj\Debug\netcoreapp3.1\animaType.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\obj\Debug\netcoreapp3.1\animaType.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\obj\Debug\netcoreapp3.1\animaType.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\animaType\obj\Debug\netcoreapp3.1\animaType.genruntimeconfig.cache

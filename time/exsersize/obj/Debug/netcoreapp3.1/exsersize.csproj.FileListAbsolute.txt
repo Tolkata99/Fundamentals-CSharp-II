@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\time\exsersize\bin\Debug\netcoreapp3.1\exsersize.exe
+C:\Users\Acer Nitro\source\repos\time\exsersize\bin\Debug\netcoreapp3.1\exsersize.deps.json
+C:\Users\Acer Nitro\source\repos\time\exsersize\bin\Debug\netcoreapp3.1\exsersize.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\time\exsersize\bin\Debug\netcoreapp3.1\exsersize.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\time\exsersize\bin\Debug\netcoreapp3.1\exsersize.dll
+C:\Users\Acer Nitro\source\repos\time\exsersize\bin\Debug\netcoreapp3.1\exsersize.pdb
+C:\Users\Acer Nitro\source\repos\time\exsersize\obj\Debug\netcoreapp3.1\exsersize.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\time\exsersize\obj\Debug\netcoreapp3.1\exsersize.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\time\exsersize\obj\Debug\netcoreapp3.1\exsersize.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\time\exsersize\obj\Debug\netcoreapp3.1\exsersize.dll
+C:\Users\Acer Nitro\source\repos\time\exsersize\obj\Debug\netcoreapp3.1\exsersize.pdb
+C:\Users\Acer Nitro\source\repos\time\exsersize\obj\Debug\netcoreapp3.1\exsersize.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\repos\time\exsersize\obj\Debug\netcoreapp3.1\exsersize.csprojAssemblyReference.cache

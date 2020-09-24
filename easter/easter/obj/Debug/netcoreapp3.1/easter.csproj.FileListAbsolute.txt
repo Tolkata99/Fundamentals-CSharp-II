@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\easter\easter\bin\Debug\netcoreapp3.1\easter.exe
+C:\Users\Acer Nitro\source\repos\easter\easter\bin\Debug\netcoreapp3.1\easter.deps.json
+C:\Users\Acer Nitro\source\repos\easter\easter\bin\Debug\netcoreapp3.1\easter.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\easter\easter\bin\Debug\netcoreapp3.1\easter.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\easter\easter\bin\Debug\netcoreapp3.1\easter.dll
+C:\Users\Acer Nitro\source\repos\easter\easter\bin\Debug\netcoreapp3.1\easter.pdb
+C:\Users\Acer Nitro\source\repos\easter\easter\obj\Debug\netcoreapp3.1\easter.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\easter\easter\obj\Debug\netcoreapp3.1\easter.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\easter\easter\obj\Debug\netcoreapp3.1\easter.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\easter\easter\obj\Debug\netcoreapp3.1\easter.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\easter\easter\obj\Debug\netcoreapp3.1\easter.dll
+C:\Users\Acer Nitro\source\repos\easter\easter\obj\Debug\netcoreapp3.1\easter.pdb
+C:\Users\Acer Nitro\source\repos\easter\easter\obj\Debug\netcoreapp3.1\easter.genruntimeconfig.cache

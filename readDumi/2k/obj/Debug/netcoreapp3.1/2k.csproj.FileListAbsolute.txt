@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\readDumi\2k\bin\Debug\netcoreapp3.1\2k.exe
+C:\Users\Acer Nitro\source\repos\readDumi\2k\bin\Debug\netcoreapp3.1\2k.deps.json
+C:\Users\Acer Nitro\source\repos\readDumi\2k\bin\Debug\netcoreapp3.1\2k.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\readDumi\2k\bin\Debug\netcoreapp3.1\2k.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\readDumi\2k\bin\Debug\netcoreapp3.1\2k.dll
+C:\Users\Acer Nitro\source\repos\readDumi\2k\bin\Debug\netcoreapp3.1\2k.pdb
+C:\Users\Acer Nitro\source\repos\readDumi\2k\obj\Debug\netcoreapp3.1\2k.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\readDumi\2k\obj\Debug\netcoreapp3.1\2k.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\readDumi\2k\obj\Debug\netcoreapp3.1\2k.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\readDumi\2k\obj\Debug\netcoreapp3.1\2k.dll
+C:\Users\Acer Nitro\source\repos\readDumi\2k\obj\Debug\netcoreapp3.1\2k.pdb
+C:\Users\Acer Nitro\source\repos\readDumi\2k\obj\Debug\netcoreapp3.1\2k.genruntimeconfig.cache

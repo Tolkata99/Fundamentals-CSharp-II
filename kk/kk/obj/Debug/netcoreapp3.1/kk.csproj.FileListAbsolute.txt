@@ -1,0 +1,4 @@
+C:\Users\Acer Nitro\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\kk\kk\obj\Debug\netcoreapp3.1\kk.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\exams\exams\bin\Debug\netcoreapp3.1\exams.exe
+C:\Users\Acer Nitro\source\repos\exams\exams\bin\Debug\netcoreapp3.1\exams.deps.json
+C:\Users\Acer Nitro\source\repos\exams\exams\bin\Debug\netcoreapp3.1\exams.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\exams\exams\bin\Debug\netcoreapp3.1\exams.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\exams\exams\bin\Debug\netcoreapp3.1\exams.dll
+C:\Users\Acer Nitro\source\repos\exams\exams\bin\Debug\netcoreapp3.1\exams.pdb
+C:\Users\Acer Nitro\source\repos\exams\exams\obj\Debug\netcoreapp3.1\exams.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\exams\exams\obj\Debug\netcoreapp3.1\exams.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\exams\exams\obj\Debug\netcoreapp3.1\exams.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\exams\exams\obj\Debug\netcoreapp3.1\exams.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\exams\exams\obj\Debug\netcoreapp3.1\exams.dll
+C:\Users\Acer Nitro\source\repos\exams\exams\obj\Debug\netcoreapp3.1\exams.pdb
+C:\Users\Acer Nitro\source\repos\exams\exams\obj\Debug\netcoreapp3.1\exams.genruntimeconfig.cache

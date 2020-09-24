@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\bin\Debug\netcoreapp3.1\delenieBezOstatuk.exe
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\bin\Debug\netcoreapp3.1\delenieBezOstatuk.deps.json
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\bin\Debug\netcoreapp3.1\delenieBezOstatuk.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\bin\Debug\netcoreapp3.1\delenieBezOstatuk.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\bin\Debug\netcoreapp3.1\delenieBezOstatuk.dll
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\bin\Debug\netcoreapp3.1\delenieBezOstatuk.pdb
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\obj\Debug\netcoreapp3.1\delenieBezOstatuk.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\obj\Debug\netcoreapp3.1\delenieBezOstatuk.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\obj\Debug\netcoreapp3.1\delenieBezOstatuk.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\obj\Debug\netcoreapp3.1\delenieBezOstatuk.dll
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\obj\Debug\netcoreapp3.1\delenieBezOstatuk.pdb
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\delenieBezOstatuk\obj\Debug\netcoreapp3.1\delenieBezOstatuk.genruntimeconfig.cache

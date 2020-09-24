@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\obj\Debug\netcoreapp3.1\fishingBoat.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\obj\Debug\netcoreapp3.1\fishingBoat.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\obj\Debug\netcoreapp3.1\fishingBoat.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\obj\Debug\netcoreapp3.1\fishingBoat.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\bin\Debug\netcoreapp3.1\fishingBoat.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\bin\Debug\netcoreapp3.1\fishingBoat.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\bin\Debug\netcoreapp3.1\fishingBoat.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\bin\Debug\netcoreapp3.1\fishingBoat.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\bin\Debug\netcoreapp3.1\fishingBoat.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\bin\Debug\netcoreapp3.1\fishingBoat.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\obj\Debug\netcoreapp3.1\fishingBoat.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\obj\Debug\netcoreapp3.1\fishingBoat.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\fishingBoat\obj\Debug\netcoreapp3.1\fishingBoat.genruntimeconfig.cache

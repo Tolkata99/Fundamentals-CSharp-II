@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\bin\Debug\netcoreapp3.1\oldBooks.exe
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\bin\Debug\netcoreapp3.1\oldBooks.deps.json
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\bin\Debug\netcoreapp3.1\oldBooks.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\bin\Debug\netcoreapp3.1\oldBooks.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\bin\Debug\netcoreapp3.1\oldBooks.dll
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\bin\Debug\netcoreapp3.1\oldBooks.pdb
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\obj\Debug\netcoreapp3.1\oldBooks.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\obj\Debug\netcoreapp3.1\oldBooks.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\obj\Debug\netcoreapp3.1\oldBooks.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\obj\Debug\netcoreapp3.1\oldBooks.dll
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\obj\Debug\netcoreapp3.1\oldBooks.pdb
+C:\Users\Acer Nitro\source\repos\balance\oldBooks\obj\Debug\netcoreapp3.1\oldBooks.genruntimeconfig.cache

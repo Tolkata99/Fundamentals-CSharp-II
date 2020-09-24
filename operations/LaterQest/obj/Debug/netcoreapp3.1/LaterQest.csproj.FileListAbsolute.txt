@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\bin\Debug\netcoreapp3.1\LaterQest.exe
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\bin\Debug\netcoreapp3.1\LaterQest.deps.json
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\bin\Debug\netcoreapp3.1\LaterQest.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\bin\Debug\netcoreapp3.1\LaterQest.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\bin\Debug\netcoreapp3.1\LaterQest.dll
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\bin\Debug\netcoreapp3.1\LaterQest.pdb
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\obj\Debug\netcoreapp3.1\LaterQest.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\obj\Debug\netcoreapp3.1\LaterQest.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\obj\Debug\netcoreapp3.1\LaterQest.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\obj\Debug\netcoreapp3.1\LaterQest.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\obj\Debug\netcoreapp3.1\LaterQest.dll
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\obj\Debug\netcoreapp3.1\LaterQest.pdb
+C:\Users\Acer Nitro\source\repos\operations\LaterQest\obj\Debug\netcoreapp3.1\LaterQest.genruntimeconfig.cache

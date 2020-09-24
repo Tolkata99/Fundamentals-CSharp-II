@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\obj\Debug\netcoreapp3.1\manOfWoman.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\obj\Debug\netcoreapp3.1\manOfWoman.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\obj\Debug\netcoreapp3.1\manOfWoman.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\bin\Debug\netcoreapp3.1\manOfWoman.exe
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\bin\Debug\netcoreapp3.1\manOfWoman.deps.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\bin\Debug\netcoreapp3.1\manOfWoman.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\bin\Debug\netcoreapp3.1\manOfWoman.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\bin\Debug\netcoreapp3.1\manOfWoman.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\bin\Debug\netcoreapp3.1\manOfWoman.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\obj\Debug\netcoreapp3.1\manOfWoman.dll
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\obj\Debug\netcoreapp3.1\manOfWoman.pdb
+C:\Users\Acer Nitro\source\repos\dayOfWeek\manOfWoman\obj\Debug\netcoreapp3.1\manOfWoman.genruntimeconfig.cache

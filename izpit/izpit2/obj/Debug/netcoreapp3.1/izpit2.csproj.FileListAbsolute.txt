@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\bin\Debug\netcoreapp3.1\izpit2.exe
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\bin\Debug\netcoreapp3.1\izpit2.deps.json
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\bin\Debug\netcoreapp3.1\izpit2.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\bin\Debug\netcoreapp3.1\izpit2.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\bin\Debug\netcoreapp3.1\izpit2.dll
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\bin\Debug\netcoreapp3.1\izpit2.pdb
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\obj\Debug\netcoreapp3.1\izpit2.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\obj\Debug\netcoreapp3.1\izpit2.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\obj\Debug\netcoreapp3.1\izpit2.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\obj\Debug\netcoreapp3.1\izpit2.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\obj\Debug\netcoreapp3.1\izpit2.dll
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\obj\Debug\netcoreapp3.1\izpit2.pdb
+C:\Users\Acer Nitro\source\repos\izpit\izpit2\obj\Debug\netcoreapp3.1\izpit2.genruntimeconfig.cache
