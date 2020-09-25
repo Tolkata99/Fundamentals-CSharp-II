@@ -10,3 +10,4 @@ C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debu
 C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.dll
 C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.pdb
 C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\convertMtoKm\obj\Debug\netcoreapp3.1\convertMtoKm.csprojAssemblyReference.cache
