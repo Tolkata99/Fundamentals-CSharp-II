@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\bin\Debug\netcoreapp3.1\DivisbleByThree.exe
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\bin\Debug\netcoreapp3.1\DivisbleByThree.deps.json
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\bin\Debug\netcoreapp3.1\DivisbleByThree.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\bin\Debug\netcoreapp3.1\DivisbleByThree.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\bin\Debug\netcoreapp3.1\DivisbleByThree.dll
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\bin\Debug\netcoreapp3.1\DivisbleByThree.pdb
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\obj\Debug\netcoreapp3.1\DivisbleByThree.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\obj\Debug\netcoreapp3.1\DivisbleByThree.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\obj\Debug\netcoreapp3.1\DivisbleByThree.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\obj\Debug\netcoreapp3.1\DivisbleByThree.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\obj\Debug\netcoreapp3.1\DivisbleByThree.dll
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\obj\Debug\netcoreapp3.1\DivisbleByThree.pdb
+C:\Users\Acer Nitro\source\repos\login\DivisbleByThree\obj\Debug\netcoreapp3.1\DivisbleByThree.genruntimeconfig.cache

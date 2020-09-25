@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\login\padawan\obj\Debug\netcoreapp3.1\padawan.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\login\padawan\obj\Debug\netcoreapp3.1\padawan.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\padawan\obj\Debug\netcoreapp3.1\padawan.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\padawan\obj\Debug\netcoreapp3.1\padawan.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\padawan\bin\Debug\netcoreapp3.1\padawan.exe
+C:\Users\Acer Nitro\source\repos\login\padawan\bin\Debug\netcoreapp3.1\padawan.deps.json
+C:\Users\Acer Nitro\source\repos\login\padawan\bin\Debug\netcoreapp3.1\padawan.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\padawan\bin\Debug\netcoreapp3.1\padawan.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\padawan\bin\Debug\netcoreapp3.1\padawan.dll
+C:\Users\Acer Nitro\source\repos\login\padawan\bin\Debug\netcoreapp3.1\padawan.pdb
+C:\Users\Acer Nitro\source\repos\login\padawan\obj\Debug\netcoreapp3.1\padawan.dll
+C:\Users\Acer Nitro\source\repos\login\padawan\obj\Debug\netcoreapp3.1\padawan.pdb
+C:\Users\Acer Nitro\source\repos\login\padawan\obj\Debug\netcoreapp3.1\padawan.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\login\login\bin\Debug\netcoreapp3.1\login.exe
+C:\Users\Acer Nitro\source\repos\login\login\bin\Debug\netcoreapp3.1\login.deps.json
+C:\Users\Acer Nitro\source\repos\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\login\bin\Debug\netcoreapp3.1\login.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\login\bin\Debug\netcoreapp3.1\login.dll
+C:\Users\Acer Nitro\source\repos\login\login\bin\Debug\netcoreapp3.1\login.pdb
+C:\Users\Acer Nitro\source\repos\login\login\obj\Debug\netcoreapp3.1\login.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\login\obj\Debug\netcoreapp3.1\login.dll
+C:\Users\Acer Nitro\source\repos\login\login\obj\Debug\netcoreapp3.1\login.pdb
+C:\Users\Acer Nitro\source\repos\login\login\obj\Debug\netcoreapp3.1\login.genruntimeconfig.cache

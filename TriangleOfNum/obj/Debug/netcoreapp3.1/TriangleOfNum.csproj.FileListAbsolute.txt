@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\bin\Debug\netcoreapp3.1\TriangleOfNum.exe
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\bin\Debug\netcoreapp3.1\TriangleOfNum.deps.json
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\bin\Debug\netcoreapp3.1\TriangleOfNum.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\bin\Debug\netcoreapp3.1\TriangleOfNum.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\bin\Debug\netcoreapp3.1\TriangleOfNum.dll
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\bin\Debug\netcoreapp3.1\TriangleOfNum.pdb
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\obj\Debug\netcoreapp3.1\TriangleOfNum.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\obj\Debug\netcoreapp3.1\TriangleOfNum.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\obj\Debug\netcoreapp3.1\TriangleOfNum.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\obj\Debug\netcoreapp3.1\TriangleOfNum.dll
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\obj\Debug\netcoreapp3.1\TriangleOfNum.pdb
+C:\Users\Acer Nitro\source\repos\login\TriangleOfNum\obj\Debug\netcoreapp3.1\TriangleOfNum.genruntimeconfig.cache

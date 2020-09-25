@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\bin\Debug\netcoreapp3.1\lowerLetter.exe
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\bin\Debug\netcoreapp3.1\lowerLetter.deps.json
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\bin\Debug\netcoreapp3.1\lowerLetter.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\bin\Debug\netcoreapp3.1\lowerLetter.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\bin\Debug\netcoreapp3.1\lowerLetter.dll
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\bin\Debug\netcoreapp3.1\lowerLetter.pdb
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\obj\Debug\netcoreapp3.1\lowerLetter.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\obj\Debug\netcoreapp3.1\lowerLetter.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\obj\Debug\netcoreapp3.1\lowerLetter.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\obj\Debug\netcoreapp3.1\lowerLetter.dll
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\obj\Debug\netcoreapp3.1\lowerLetter.pdb
+C:\Users\Acer Nitro\source\repos\login\lowerLetter\obj\Debug\netcoreapp3.1\lowerLetter.genruntimeconfig.cache

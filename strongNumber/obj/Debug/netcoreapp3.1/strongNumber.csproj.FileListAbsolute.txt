@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\login\strongNumber\bin\Debug\netcoreapp3.1\strongNumber.exe
+C:\Users\Acer Nitro\source\repos\login\strongNumber\bin\Debug\netcoreapp3.1\strongNumber.deps.json
+C:\Users\Acer Nitro\source\repos\login\strongNumber\bin\Debug\netcoreapp3.1\strongNumber.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\strongNumber\bin\Debug\netcoreapp3.1\strongNumber.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\strongNumber\bin\Debug\netcoreapp3.1\strongNumber.dll
+C:\Users\Acer Nitro\source\repos\login\strongNumber\bin\Debug\netcoreapp3.1\strongNumber.pdb
+C:\Users\Acer Nitro\source\repos\login\strongNumber\obj\Debug\netcoreapp3.1\strongNumber.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\login\strongNumber\obj\Debug\netcoreapp3.1\strongNumber.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\strongNumber\obj\Debug\netcoreapp3.1\strongNumber.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\strongNumber\obj\Debug\netcoreapp3.1\strongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\strongNumber\obj\Debug\netcoreapp3.1\strongNumber.dll
+C:\Users\Acer Nitro\source\repos\login\strongNumber\obj\Debug\netcoreapp3.1\strongNumber.pdb
+C:\Users\Acer Nitro\source\repos\login\strongNumber\obj\Debug\netcoreapp3.1\strongNumber.genruntimeconfig.cache

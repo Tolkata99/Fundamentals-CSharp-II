@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\login\rage\bin\Debug\netcoreapp3.1\rage.exe
+C:\Users\Acer Nitro\source\repos\login\rage\bin\Debug\netcoreapp3.1\rage.deps.json
+C:\Users\Acer Nitro\source\repos\login\rage\bin\Debug\netcoreapp3.1\rage.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\rage\bin\Debug\netcoreapp3.1\rage.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\rage\bin\Debug\netcoreapp3.1\rage.dll
+C:\Users\Acer Nitro\source\repos\login\rage\bin\Debug\netcoreapp3.1\rage.pdb
+C:\Users\Acer Nitro\source\repos\login\rage\obj\Debug\netcoreapp3.1\rage.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\rage\obj\Debug\netcoreapp3.1\rage.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\rage\obj\Debug\netcoreapp3.1\rage.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\rage\obj\Debug\netcoreapp3.1\rage.dll
+C:\Users\Acer Nitro\source\repos\login\rage\obj\Debug\netcoreapp3.1\rage.pdb
+C:\Users\Acer Nitro\source\repos\login\rage\obj\Debug\netcoreapp3.1\rage.genruntimeconfig.cache
+C:\Users\Acer Nitro\source\repos\login\rage\obj\Debug\netcoreapp3.1\rage.csprojAssemblyReference.cache

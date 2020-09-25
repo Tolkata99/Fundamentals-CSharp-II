@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\login\falseCode\bin\Debug\netcoreapp3.1\falseCode.exe
+C:\Users\Acer Nitro\source\repos\login\falseCode\bin\Debug\netcoreapp3.1\falseCode.deps.json
+C:\Users\Acer Nitro\source\repos\login\falseCode\bin\Debug\netcoreapp3.1\falseCode.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\falseCode\bin\Debug\netcoreapp3.1\falseCode.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\falseCode\bin\Debug\netcoreapp3.1\falseCode.dll
+C:\Users\Acer Nitro\source\repos\login\falseCode\bin\Debug\netcoreapp3.1\falseCode.pdb
+C:\Users\Acer Nitro\source\repos\login\falseCode\obj\Debug\netcoreapp3.1\falseCode.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\falseCode\obj\Debug\netcoreapp3.1\falseCode.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\falseCode\obj\Debug\netcoreapp3.1\falseCode.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\falseCode\obj\Debug\netcoreapp3.1\falseCode.dll
+C:\Users\Acer Nitro\source\repos\login\falseCode\obj\Debug\netcoreapp3.1\falseCode.pdb
+C:\Users\Acer Nitro\source\repos\login\falseCode\obj\Debug\netcoreapp3.1\falseCode.genruntimeconfig.cache

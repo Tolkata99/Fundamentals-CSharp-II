@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\bin\Debug\netcoreapp3.1\volumeOfPriramid.exe
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\bin\Debug\netcoreapp3.1\volumeOfPriramid.deps.json
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\bin\Debug\netcoreapp3.1\volumeOfPriramid.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\bin\Debug\netcoreapp3.1\volumeOfPriramid.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\bin\Debug\netcoreapp3.1\volumeOfPriramid.dll
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\bin\Debug\netcoreapp3.1\volumeOfPriramid.pdb
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\obj\Debug\netcoreapp3.1\volumeOfPriramid.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\obj\Debug\netcoreapp3.1\volumeOfPriramid.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\obj\Debug\netcoreapp3.1\volumeOfPriramid.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\obj\Debug\netcoreapp3.1\volumeOfPriramid.dll
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\obj\Debug\netcoreapp3.1\volumeOfPriramid.pdb
+C:\Users\Acer Nitro\source\repos\login\volumeOfPriramid\obj\Debug\netcoreapp3.1\volumeOfPriramid.genruntimeconfig.cache

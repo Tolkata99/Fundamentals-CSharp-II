@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\bin\Debug\netcoreapp3.1\01.Integer.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\bin\Debug\netcoreapp3.1\01.Integer.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\bin\Debug\netcoreapp3.1\01.Integer.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\bin\Debug\netcoreapp3.1\01.Integer.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\bin\Debug\netcoreapp3.1\01.Integer.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\bin\Debug\netcoreapp3.1\01.Integer.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\obj\Debug\netcoreapp3.1\01.Integer.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\obj\Debug\netcoreapp3.1\01.Integer.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\obj\Debug\netcoreapp3.1\01.Integer.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\obj\Debug\netcoreapp3.1\01.Integer.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\obj\Debug\netcoreapp3.1\01.Integer.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\obj\Debug\netcoreapp3.1\01.Integer.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\01.Integer\01.Integer\obj\Debug\netcoreapp3.1\01.Integer.genruntimeconfig.cache
