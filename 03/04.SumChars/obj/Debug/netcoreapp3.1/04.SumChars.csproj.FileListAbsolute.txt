@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.exe
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.deps.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.runtimeconfig.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\bin\Debug\netcoreapp3.1\04.SumChars.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.dll
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.pdb
+C:\Users\Acer Nitro\source\Fundamentals\CSharpFundamentals\03\04.SumChars\obj\Debug\netcoreapp3.1\04.SumChars.genruntimeconfig.cache
