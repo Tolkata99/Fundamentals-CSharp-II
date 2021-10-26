@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Dynamic;
 
 namespace _5
 {
@@ -7,55 +6,32 @@ namespace _5
     {
         static void Main(string[] args)
         {
-            int numSea = int.Parse(Console.ReadLine());
-            int numMontain = int.Parse(Console.ReadLine());
 
-            int seaSum = 0;
-            int montainSum = 0;
+            int n1 = int.Parse(Console.ReadLine());
+            int n2 = int.Parse(Console.ReadLine());
 
-            double p1 = 0;
-                double p2 = 0;
-            while (true)
+            for (int x1 = 1; x1 <= 9; x1++)
             {
-                string vid = Console.ReadLine();
-                if(vid == "Stop")
+                for (int x2 = 1; x2 <= 9; x2++)
                 {
-                    break;
-                }
-
-                if (seaSum >= numSea && montainSum >= numMontain)
-                {
-                    break;
-                }
-                if (vid == "sea" && seaSum <= numSea)
-                {
-                    seaSum++;
-                    if(seaSum <= numSea)
+                    for (int x3 = 1; x3 <= 9; x3++)
                     {
-                        p1 += 680;
-                    }
-                }
-                else if(vid == "mountain" && montainSum <= numMontain)
-                {
-                    montainSum++;
-                    if(montainSum <= numMontain)
-                    {
-                        p2 += 499;
+                        for (int x4 = 1; x4 <= 9; x4++)
+                        {
+                            if (n1 % x1 == 0 && n1 % x2 == 0 && n1 % x3 == 0 & n1 % x4 == 0)
+                            {
+                                Console.Write($"{x1}{x2}{x3}{x4} ");
+                            }
+                        }
                     }
                 }
 
-                
 
-                
-                
-            }
-            
 
-            if(seaSum >= numSea && montainSum >= numMontain)
-            {
-                Console.WriteLine("Good job! Everything is sold.");
+
+
+
+
             }
-            Console.WriteLine($"Profit: {p1 + p2} leva.");
-        }
     }
 }

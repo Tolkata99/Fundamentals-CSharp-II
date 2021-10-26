@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer Nitro\\source\\repos\\exam\\5\\5.csproj",
+      "projectUniqueName": "C:\\Users\\Acer Nitro\\source\\repos\\izpit\\5\\5.csproj",
       "projectName": "5",
-      "projectPath": "C:\\Users\\Acer Nitro\\source\\repos\\exam\\5\\5.csproj",
+      "projectPath": "C:\\Users\\Acer Nitro\\source\\repos\\izpit\\5\\5.csproj",
       "packagesPath": "C:\\Users\\Acer Nitro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer Nitro\\source\\repos\\exam\\5\\obj\\",
+      "outputPath": "C:\\Users\\Acer Nitro\\source\\repos\\izpit\\5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer Nitro\\AppData\\Roaming\\NuGet\\NuGet.Config",
