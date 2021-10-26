@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\bin\Debug\netcoreapp3.1\readDumi.exe
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\bin\Debug\netcoreapp3.1\readDumi.deps.json
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\bin\Debug\netcoreapp3.1\readDumi.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\bin\Debug\netcoreapp3.1\readDumi.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\bin\Debug\netcoreapp3.1\readDumi.dll
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\bin\Debug\netcoreapp3.1\readDumi.pdb
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\obj\Debug\netcoreapp3.1\readDumi.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\obj\Debug\netcoreapp3.1\readDumi.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\obj\Debug\netcoreapp3.1\readDumi.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\obj\Debug\netcoreapp3.1\readDumi.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\obj\Debug\netcoreapp3.1\readDumi.dll
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\obj\Debug\netcoreapp3.1\readDumi.pdb
+C:\Users\Acer Nitro\source\repos\readDumi\readDumi\obj\Debug\netcoreapp3.1\readDumi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\bin\Debug\netcoreapp3.1\basketballTournaments.exe
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\bin\Debug\netcoreapp3.1\basketballTournaments.deps.json
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\bin\Debug\netcoreapp3.1\basketballTournaments.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\bin\Debug\netcoreapp3.1\basketballTournaments.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\bin\Debug\netcoreapp3.1\basketballTournaments.dll
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\bin\Debug\netcoreapp3.1\basketballTournaments.pdb
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\obj\Debug\netcoreapp3.1\basketballTournaments.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\obj\Debug\netcoreapp3.1\basketballTournaments.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\obj\Debug\netcoreapp3.1\basketballTournaments.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\obj\Debug\netcoreapp3.1\basketballTournaments.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\obj\Debug\netcoreapp3.1\basketballTournaments.dll
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\obj\Debug\netcoreapp3.1\basketballTournaments.pdb
+C:\Users\Acer Nitro\source\repos\exam\basketballTournaments\obj\Debug\netcoreapp3.1\basketballTournaments.genruntimeconfig.cache

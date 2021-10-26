@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\login\specialNumber\bin\Debug\netcoreapp3.1\specialNumber.exe
+C:\Users\Acer Nitro\source\repos\login\specialNumber\bin\Debug\netcoreapp3.1\specialNumber.deps.json
+C:\Users\Acer Nitro\source\repos\login\specialNumber\bin\Debug\netcoreapp3.1\specialNumber.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\specialNumber\bin\Debug\netcoreapp3.1\specialNumber.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\specialNumber\bin\Debug\netcoreapp3.1\specialNumber.dll
+C:\Users\Acer Nitro\source\repos\login\specialNumber\bin\Debug\netcoreapp3.1\specialNumber.pdb
+C:\Users\Acer Nitro\source\repos\login\specialNumber\obj\Debug\netcoreapp3.1\specialNumber.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\specialNumber\obj\Debug\netcoreapp3.1\specialNumber.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\specialNumber\obj\Debug\netcoreapp3.1\specialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\specialNumber\obj\Debug\netcoreapp3.1\specialNumber.dll
+C:\Users\Acer Nitro\source\repos\login\specialNumber\obj\Debug\netcoreapp3.1\specialNumber.pdb
+C:\Users\Acer Nitro\source\repos\login\specialNumber\obj\Debug\netcoreapp3.1\specialNumber.genruntimeconfig.cache

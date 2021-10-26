@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\bin\Debug\netcoreapp3.1\cinemaStars.exe
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\bin\Debug\netcoreapp3.1\cinemaStars.deps.json
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\bin\Debug\netcoreapp3.1\cinemaStars.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\bin\Debug\netcoreapp3.1\cinemaStars.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\bin\Debug\netcoreapp3.1\cinemaStars.dll
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\bin\Debug\netcoreapp3.1\cinemaStars.pdb
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\obj\Debug\netcoreapp3.1\cinemaStars.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\obj\Debug\netcoreapp3.1\cinemaStars.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\obj\Debug\netcoreapp3.1\cinemaStars.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\obj\Debug\netcoreapp3.1\cinemaStars.dll
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\obj\Debug\netcoreapp3.1\cinemaStars.pdb
+C:\Users\Acer Nitro\source\repos\exam\cinemaStars\obj\Debug\netcoreapp3.1\cinemaStars.genruntimeconfig.cache

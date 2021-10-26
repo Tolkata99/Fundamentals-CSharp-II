@@ -1,0 +1,13 @@
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\bin\Debug\netcoreapp3.1\Lilly.exe
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\bin\Debug\netcoreapp3.1\Lilly.deps.json
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\bin\Debug\netcoreapp3.1\Lilly.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\bin\Debug\netcoreapp3.1\Lilly.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\bin\Debug\netcoreapp3.1\Lilly.dll
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\bin\Debug\netcoreapp3.1\Lilly.pdb
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\obj\Debug\netcoreapp3.1\Lilly.csprojAssemblyReference.cache
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\obj\Debug\netcoreapp3.1\Lilly.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\obj\Debug\netcoreapp3.1\Lilly.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\obj\Debug\netcoreapp3.1\Lilly.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\obj\Debug\netcoreapp3.1\Lilly.dll
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\obj\Debug\netcoreapp3.1\Lilly.pdb
+C:\Users\Acer Nitro\source\repos\lqvaIDqsnaStrana\Lilly\obj\Debug\netcoreapp3.1\Lilly.genruntimeconfig.cache

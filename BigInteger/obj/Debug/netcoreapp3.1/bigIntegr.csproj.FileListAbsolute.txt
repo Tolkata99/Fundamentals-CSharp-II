@@ -1,0 +1,12 @@
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\bin\Debug\netcoreapp3.1\bigIntegr.exe
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\bin\Debug\netcoreapp3.1\bigIntegr.deps.json
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\bin\Debug\netcoreapp3.1\bigIntegr.runtimeconfig.json
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\bin\Debug\netcoreapp3.1\bigIntegr.runtimeconfig.dev.json
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\bin\Debug\netcoreapp3.1\bigIntegr.dll
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\bin\Debug\netcoreapp3.1\bigIntegr.pdb
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\obj\Debug\netcoreapp3.1\bigIntegr.AssemblyInfoInputs.cache
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\obj\Debug\netcoreapp3.1\bigIntegr.AssemblyInfo.cs
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\obj\Debug\netcoreapp3.1\bigIntegr.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\obj\Debug\netcoreapp3.1\bigIntegr.dll
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\obj\Debug\netcoreapp3.1\bigIntegr.pdb
+C:\Users\Acer Nitro\source\repos\login\bigIntegr\obj\Debug\netcoreapp3.1\bigIntegr.genruntimeconfig.cache
